@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runnz121&show_icons=true&theme=dracula)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=runnz121)
-
 
 
 
