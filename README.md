@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runnz121&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runnz121&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=runnz121a&repo=github-readme-stats)](https://github.com/runnz121)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=runnz121&show_icons=true)
+
 
 
 
