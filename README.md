@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 
 -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={runnz121)](https://solved.ac/{runnz121})
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=runnz121">
