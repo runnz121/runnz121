@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@runnz121)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={runnz121)](https://solved.ac/{runnz121})
