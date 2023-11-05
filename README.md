@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 -->
 <!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=runnz121">
  -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=runnz121)](https://solved.ac/runnz121/)
